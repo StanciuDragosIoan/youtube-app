@@ -1,0 +1,12 @@
+-Youtube App
+-Fetches videos without ads (either based on categories or globally -tbc);
+
+
+
+Stuff I did:
+
+-created file
+-set up boiler plate
+-added the youtube player from their API tocs
+-initialized git repo
+-studied docs a bit
