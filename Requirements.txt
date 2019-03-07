@@ -9,4 +9,4 @@ Stuff I did:
 -set up boiler plate
 -added the youtube player from their API tocs
 -initialized git repo
--studied docs a bit
+-studied docs a bit : https://developers.google.com/youtube/iframe_api_reference
