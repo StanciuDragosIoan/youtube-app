@@ -10,3 +10,19 @@ Stuff I did:
 -added the youtube player from their API tocs
 -initialized git repo
 -studied docs a bit : https://developers.google.com/youtube/iframe_api_reference
+
+
+-fetch data from API:
+https://developers.google.com/youtube/v3/getting-started
+
+-went to the console on sdimedia account;
+
+https://console.developers.google.com/projectselector2/apis/dashboard?authuser&supportedpurview=project&project&folder&organizationId
+-created a new Project called YouTube App;
+-enabled YouTube API V3;
+-created credentials (generated API key);
+
+see examples for JS Implements:
+https://developers.google.com/api-client-library/javascript/samples/samples
+
+*may not need to use a library
